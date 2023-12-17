@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753934366540",
+    "project_id": "yudisium-pnl",
+    "storage_bucket": "yudisium-pnl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753934366540:android:5aadb427234b62550181e9",
+        "android_client_info": {
+          "package_name": "com.example.yudisium_pnl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcdfoiJwfhOuspqcJvV3tzZdiBVia_1I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
